@@ -1,0 +1,46 @@
+Tuti Tuti Plugin Licence
+
+Copyright (c) 2026 Pandacat Inc. All rights reserved.
+
+This plugin, including its skill, its reference documents (the Tuti Tuti
+script guide, the Tuti Tuti app guide and the example script), its manifests
+and its icon (together, the "Plugin"), is the property of Pandacat Inc.
+
+Permission
+
+Pandacat Inc. grants you a personal, non-exclusive, non-transferable,
+revocable licence to download and install the Plugin through Claude, Claude
+Code or another Anthropic product that reads plugins from the Anthropic
+directory or from this repository, and to use it so that an AI assistant can
+write, check and save Tuti Tuti tutorial scripts for you.
+
+Restrictions
+
+Except as permitted above, you may not copy, modify, translate, adapt,
+publish, distribute, sublicense, sell, rent, or create derivative works from
+the Plugin or any part of it, and you may not remove or alter any copyright
+notice. The reference documents are provided for the AI assistant's use while
+writing scripts; reproducing them elsewhere, in whole or in part, requires
+written permission from Pandacat Inc.
+
+The Tuti Tuti MCP servers that the Plugin connects to are governed by the
+Tuti Tuti Terms of Service at https://tutituti.ca/terms and the Tuti Tuti
+Privacy Policy at https://tutituti.ca/privacy.
+
+No warranty
+
+THE PLUGIN IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL
+PANDACAT INC. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+FROM OR IN CONNECTION WITH THE PLUGIN OR ITS USE.
+
+Governing law
+
+This licence is governed by the laws of the Province of Quebec and the
+federal laws of Canada applicable therein.
+
+Tuti Tuti and Pandacat are trademarks of Pandacat Inc.
+Questions: legal@pandacat.ca
+
+Tuti Tuti - powered by Pandacat.

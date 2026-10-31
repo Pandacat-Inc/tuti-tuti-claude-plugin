@@ -1,0 +1,20 @@
+Introduction
+Inventory Inventory is inventory management software powered by AI. In the next few minutes we'll see how stock, warehouses, purchasing, and alerts fit together. Everything you'll see runs on the free plan.
+
+Sign in
+Now let's take a look at signing in. Click Sign in at the bottom of the left menu. Here you'll see the dashboard with today's numbers. The AI Onboarding Officer greets new accounts here and asks a few questions about your business.
+
+Inventory
+Next, let's take a look at inventory. Click Inventory in the left menu. Here you'll see the inventory list, with quantities that update live. You can add items by photo, voice, or typing. Click Add item at the top right. Now choose Photo. Here you'll see the camera view, and the details fill themselves in.
+
+Warehouse map
+Now let's take a look at the warehouse map. Click Warehouse map in the left menu. Each aisle and shelf is laid out exactly like your real space. Click New Warehouse at the top of the map. For example, type "Main Warehouse" into the Name field. Then create your warehouse. First select "Add or draw aisle" from the top bar. Click anywhere inside the warehouse box and drag your cursor, then let go, and that draws your first aisle.
+
+Purchasing
+Next, let's take a look at purchasing. Click Purchasing in the left menu. Here you'll see the purchase orders, grouped by supplier. Open the Suppliers tab at the top of the list to set lead times and minimum order quantities. When stock runs low, a purchase order is drafted for you automatically.
+
+Alerts
+Finally, let's take a look at alerts. Click the bell icon at the top right to read your low stock alerts. Each alert is written in plain English, so anyone on the team can act on it.
+
+Wrapping up
+And that wraps up the quick tour. The free plan covers up to fifty items, and the Help Center answers the common questions.

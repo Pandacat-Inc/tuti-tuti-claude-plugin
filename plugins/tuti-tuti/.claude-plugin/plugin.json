@@ -1,0 +1,25 @@
+{
+  "name": "tuti-tuti",
+  "version": "1.0.0",
+  "description": "Write, check and save Tuti Tuti tutorial scripts from Claude Code. Brings the script guide as a skill and connects the Tuti Tuti MCP servers: the public one (guides, parser, checker) and your account (your tutorials, rework files, saving scripts; Pro).",
+  "author": {
+    "name": "Pandacat Inc.",
+    "email": "support@pandacat.ca",
+    "url": "https://pandacat.ca"
+  },
+  "homepage": "https://tutituti.ca/claude-connector",
+  "repository": "https://github.com/Pandacat-Inc/tuti-tuti-claude-plugin",
+  "documentationUrl": "https://tutituti.ca/mcp",
+  "supportUrl": "https://tutituti.ca/help",
+  "privacyPolicyUrl": "https://tutituti.ca/privacy",
+  "termsOfServiceUrl": "https://tutituti.ca/terms",
+  "license": "LicenseRef-Pandacat-Proprietary",
+  "keywords": [
+    "tutorial",
+    "demo",
+    "onboarding",
+    "narration",
+    "mcp",
+    "tuti-tuti"
+  ]
+}

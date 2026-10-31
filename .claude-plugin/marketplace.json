@@ -1,0 +1,24 @@
+{
+  "name": "pandacat",
+  "owner": {
+    "name": "Pandacat",
+    "email": "support@pandacat.ca",
+    "url": "https://tutituti.ca"
+  },
+  "metadata": {
+    "description": "Plugins by Pandacat: Tuti Tuti, narrated self-driving tutorials of web apps from a written script.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "tuti-tuti",
+      "source": "./plugins/tuti-tuti",
+      "description": "Write, check and save Tuti Tuti tutorial scripts from Claude Code: the script guide as a skill, and the Tuti Tuti MCP servers (public, and your account).",
+      "version": "1.0.0",
+      "author": { "name": "Pandacat", "email": "support@pandacat.ca" },
+      "homepage": "https://tutituti.ca/claude-connector",
+      "category": "productivity",
+      "keywords": ["tutorial", "demo", "onboarding", "narration", "mcp", "chrome-extension", "tuti-tuti"]
+    }
+  ]
+}

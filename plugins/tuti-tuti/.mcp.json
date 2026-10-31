@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "tuti-tuti-public": {
+      "type": "http",
+      "url": "https://tutituti.ca/api/mcp"
+    },
+    "tuti-tuti-account": {
+      "type": "http",
+      "url": "https://tutituti.ca/api/mcp/account"
+    }
+  }
+}
